@@ -1,1 +1,1 @@
-Rehab Quest is a webapp developed as part of Data Sprint Hackathon during 4th-5th Sep 2025
+Rehab Quest is a webapp developed in order to motivate paatients in physical therapy by gamifying the exercise sessions and tracking their progress
